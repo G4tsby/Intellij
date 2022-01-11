@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <mask>*.css</mask>
-    <mask>*.html</mask>
-    <mask>*.xml</mask>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.cu</mask>
     <mask>*.cxx</mask>
     <mask>*.hp</mask>
@@ -28,5 +28,10 @@
     <mask>*.cc</mask>
     <mask>*.c</mask>
     <mask>*.cpp</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.pyw</mask>
+    <mask>*.py</mask>
   </component>
 </application>
