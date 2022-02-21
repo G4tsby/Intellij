@@ -1,10 +1,5 @@
 <application>
   <component name="LightEdit">
-    <option name="sessionFiles">
-      <list>
-        <option value="file:////wsl.localhost/Ubuntu/home/g4tsby/workspace/MDK/train.py" />
-      </list>
-    </option>
     <option name="frameInfo">
       <frame x="-8" y="-8" width="2576" height="1408" extendedState="6" />
     </option>
