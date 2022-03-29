@@ -10,6 +10,14 @@
             </JupyterConnectionParameters>
           </value>
         </entry>
+        <entry key="C:/workspace/Tensor/.idea/Tensor.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="C:\Users\G4tsby\.conda\envs\AI01\python.exe" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
         <entry key="C:/workspace/python/LoA Vision/.idea/LoA Vision.iml">
           <value>
             <JupyterConnectionParameters>
