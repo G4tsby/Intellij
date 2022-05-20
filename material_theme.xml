@@ -1,6 +1,5 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="premium" value="true" />
     <option name="isActiveBoldTab" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="false" />
@@ -9,6 +8,6 @@
     <option name="accentColor" value="8e80ff" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-13398312:17d239b9007:-8000" />
-    <option name="version" value="6.9.1" />
+    <option name="version" value="7.4.1" />
   </component>
 </application>
