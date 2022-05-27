@@ -4,7 +4,7 @@
     <property name="created">2021-11-17T01:31:10</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2022-05-27T19:57:10</property>
+    <property name="modified">2022-05-27T20:13:36</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2825,7 +2825,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c7d5d6" />
+        <option name="FOREGROUND" value="6b6b6b" />
       </value>
     </option>
     <option name="OC.CLASS_REFERENCE">
