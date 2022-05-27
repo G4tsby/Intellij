@@ -4,7 +4,7 @@
     <property name="created">2021-11-17T01:31:10</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2022-05-27T18:49:06</property>
+    <property name="modified">2022-05-27T19:57:10</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -133,13 +133,14 @@
     <option name="ScrollBar.Mac.hoverTrackColor" value="212121" />
     <option name="ScrollBar.Mac.thumbColor" value="ff9800c0" />
     <option name="ScrollBar.Mac.trackColor" value="212121" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="ff9800c0" />
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="212121" />
-    <option name="ScrollBar.Transparent.thumbColor" value="ff980080" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="8e80ff" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="8e80ff" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="8e80ff" />
+    <option name="ScrollBar.Transparent.thumbColor" value="8e80ff" />
     <option name="ScrollBar.Transparent.trackColor" value="212121" />
-    <option name="ScrollBar.hoverThumbColor" value="ff9800" />
+    <option name="ScrollBar.hoverThumbColor" value="8e80ff" />
     <option name="ScrollBar.hoverTrackColor" value="212121" />
-    <option name="ScrollBar.thumbColor" value="ff9800c0" />
+    <option name="ScrollBar.thumbColor" value="8e80ff" />
     <option name="ScrollBar.trackColor" value="212121" />
     <option name="TAB_UNDERLINE" value="ff9800" />
     <option name="TAB_UNDERLINE_INACTIVE" value="ff9800c0" />
